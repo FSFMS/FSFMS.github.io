@@ -1,0 +1,5 @@
+http://example.com/2022/05/31/hello-world/
+http://example.com/test-page/index.html
+http://example.com/
+http://example.com/tags/hello/
+http://example.com/tags/world/
