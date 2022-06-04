@@ -6,7 +6,7 @@
   <link href="https://fsfms.github.io/readme/atom.xml" rel="self"/>
   
   <link href="https://fsfms.github.io/readme/"/>
-  <updated>2022-06-04T13:42:55.167Z</updated>
+  <updated>2022-06-04T23:46:38.023Z</updated>
   <id>https://fsfms.github.io/readme/</id>
   
   <author>
@@ -17,98 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Nomore12의 첫 번째 포스팅</title>
-    <link href="https://fsfms.github.io/readme/2022/06/04/nomore12/Nomore12%EC%9D%98-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85/"/>
-    <id>https://fsfms.github.io/readme/2022/06/04/nomore12/Nomore12%EC%9D%98-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85/</id>
-    <published>2022-06-04T13:39:20.000Z</published>
-    <updated>2022-06-04T13:42:55.167Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="첫-번째-포스팅"><a href="#첫-번째-포스팅" class="headerlink" title="첫 번째 포스팅"></a>첫 번째 포스팅</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;첫-번째-포스팅&quot;&gt;&lt;a href=&quot;#첫-번째-포스팅&quot; class=&quot;headerlink&quot; title=&quot;첫 번째 포스팅&quot;&gt;&lt;/a&gt;첫 번째 포스팅&lt;/h1&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>new test</title>
-    <link href="https://fsfms.github.io/readme/2022/06/04/test2/new-test/"/>
-    <id>https://fsfms.github.io/readme/2022/06/04/test2/new-test/</id>
-    <published>2022-06-04T07:08:33.000Z</published>
-    <updated>2022-06-04T07:08:48.576Z</updated>
-    
-    <content type="html"><![CDATA[<p>asdf<br>asdf<br>asdgf<br>gdfbsd</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;asdf&lt;br&gt;asdf&lt;br&gt;asdgf&lt;br&gt;gdfbsd&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="test1" scheme="https://fsfms.github.io/readme/categories/test1/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>testesttestetse</title>
-    <link href="https://fsfms.github.io/readme/2022/06/04/test/testesttestetse/"/>
-    <id>https://fsfms.github.io/readme/2022/06/04/test/testesttestetse/</id>
-    <published>2022-06-04T06:57:28.000Z</published>
-    <updated>2022-06-04T06:57:53.112Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="asdgfasdgasgasg"><a href="#asdgfasdgasgasg" class="headerlink" title="asdgfasdgasgasg"></a>asdgfasdgasgasg</h1><p>sadfas<br>asdf<br>asdf</p><h1 id="asdfasdf"><a href="#asdfasdf" class="headerlink" title="asdfasdf"></a>asdfasdf</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;asdgfasdgasgasg&quot;&gt;&lt;a href=&quot;#asdgfasdgasgasg&quot; class=&quot;headerlink&quot; title=&quot;asdgfasdgasgasg&quot;&gt;&lt;/a&gt;asdgfasdgasgasg&lt;/h1&gt;&lt;p&gt;sadfas&lt;br&gt;asdf&lt;br&gt;</summary>
-      
-    
-    
-    
-    <category term="test" scheme="https://fsfms.github.io/readme/categories/test/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>testtest</title>
-    <link href="https://fsfms.github.io/readme/2022/06/04/test/testtest/"/>
-    <id>https://fsfms.github.io/readme/2022/06/04/test/testtest/</id>
-    <published>2022-06-04T06:44:21.000Z</published>
-    <updated>2022-06-04T06:57:07.832Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h1 id="2"><a href="#2" class="headerlink" title="2"></a>2</h1><h1 id="3"><a href="#3" class="headerlink" title="3"></a>3</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;headerlink&quot; title=&quot;1&quot;&gt;&lt;/a&gt;1&lt;/h1&gt;&lt;h1 id=&quot;2&quot;&gt;&lt;a href=&quot;#2&quot; class=&quot;headerlink&quot; title=&quot;2&quot;&gt;&lt;/a&gt;2&lt;/h1&gt;&lt;h1 id=&quot;3&quot;&gt;&lt;a </summary>
-      
-    
-    
-    
-    <category term="test1" scheme="https://fsfms.github.io/readme/categories/test1/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>현재까지의 내용 정리</title>
-    <link href="https://fsfms.github.io/readme/2022/06/04/AlgorithmnStudy2022-2022-06-04/"/>
-    <id>https://fsfms.github.io/readme/2022/06/04/AlgorithmnStudy2022-2022-06-04/</id>
+    <link href="https://fsfms.github.io/readme/2022/06/04/AlgorithmStudy2022/AlgorithmnStudy2022-2022-06-04/"/>
+    <id>https://fsfms.github.io/readme/2022/06/04/AlgorithmStudy2022/AlgorithmnStudy2022-2022-06-04/</id>
     <published>2022-06-04T04:58:52.000Z</published>
-    <updated>2022-06-04T14:33:49.437Z</updated>
+    <updated>2022-06-04T23:46:38.023Z</updated>
     
     <content type="html"><![CDATA[<p>참여자: <a href="https://github.com/herohjk">HEROHJK</a>, <a href="https://github.com/kwios0101">KWiOS0101</a>, <a href="https://github.com/nomore12">nomore12</a></p><h1 id="현재까지의-진행상황"><a href="#현재까지의-진행상황" class="headerlink" title="현재까지의 진행상황"></a>현재까지의 진행상황</h1><h2 id="시작"><a href="#시작" class="headerlink" title="시작"></a>시작</h2><ul><li>2022년 4월에 어떤분이 <a href="https://okky.kr/article/1205183">okky</a>에 스터디 모집 공고를 내셨습니다.</li><li>5명이 모였고, 3명은 도망갔습니다..</li><li>3명중에 스터디장님이 포함되어 있었습니다..</li><li>포스트 작성자(HEROHJK)인 제가 이어받아 진행하고 있습니다.</li><li>중간에 제 권유로 인해 <a href="https://github.com/nomore12">nomore12</a>님이 합류하게 되었습니다.</li></ul><h2 id="진행-방식-및-진행-이력"><a href="#진행-방식-및-진행-이력" class="headerlink" title="진행 방식 및 진행 이력"></a>진행 방식 및 진행 이력</h2><ul><li>진행 방식은 매주 유동적으로 설정되고 있습니다.</li><li>우선은 Swift로 풀이 가능한 <a href="https://programmers.co.kr/">Programmers</a>의 레벨1의 모든 문제를 풀어오기로 하였습니다.</li><li>한달 조금 넘게 진행중이며, 마무리 단계입니다. (22.04.27 ~ 22.06.05)</li><li>첫주에는 3문제, 그 다음주에는 5문제, 그 다음주부터는 10문제를 풀어오기로 했습니다.</li><li>하지만 문제점을 한가지 파악하였습니다.</li></ul><h2 id="문제점"><a href="#문제점" class="headerlink" title="문제점?"></a>문제점?</h2><p>레벨 2로 넘어가려고 하다보니, 우리는 한가지 문제에 직면하였습니다.</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">코딩테스트를 위한 알고리즘 공부의 핵심은, </span><br><span class="line">&quot;최대한 빠른시간에 최대한 정확하게 문제를 풀이하는 것&quot;인데..</span><br><span class="line">위 조건을 맞추기 위해서는 문제 유형에 대한 파악이 우선이다.</span><br><span class="line">하지만 레벨단위로 문제를 풀다보면, 결국 기본 바탕 없이는 빠르게, 정확하게 해결을 하기가 곤란하다.</span><br></pre></td></tr></table></figure><h2 id="이후-진행-방식"><a href="#이후-진행-방식" class="headerlink" title="이후 진행 방식"></a>이후 진행 방식</h2><ul><li>이후 (22.06.05~)에는 프로그래머스 문제 풀이를 잠깐 멈추고, 책을 하나 선정하여 공부해오기로 하였습니다.</li><li>현재 책은 <a href="https://book.naver.com/bookdb/book_detail.nhn?bid=16439154">이것이 취업을 위한 코딩 테스트다. with 파이썬 (나동빈 저)</a> 으로 정해졌습니다.</li><li>강사님의 <a href="https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC">Youtube</a>도 있어서, 굳이 책을 구매하지 않더라도 공부하는데는 문제가 없기도하고, 가장 베스트셀러인 책을 구매하여 공부하기로 협의했습니다.</li><li>기간은 최대 2개월로 산정하였습니다. (22.06.05 ~ 22.07.31)</li></ul>]]></content>
     
@@ -123,39 +36,11 @@
     <category term="AlgorithmStudy2022" scheme="https://fsfms.github.io/readme/categories/AlgorithmStudy2022/"/>
     
     
-    <category term="Algorithm, Programmers, 이것이 취업을 위한 코딩 테스트다" scheme="https://fsfms.github.io/readme/tags/Algorithm-Programmers-%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/"/>
+    <category term="Algorithm" scheme="https://fsfms.github.io/readme/tags/Algorithm/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://fsfms.github.io/readme/2022/05/31/test/hello-world/"/>
-    <id>https://fsfms.github.io/readme/2022/05/31/test/hello-world/</id>
-    <published>2022-05-30T15:00:00.000Z</published>
-    <updated>2022-06-04T06:56:49.757Z</updated>
+    <category term="Programmers" scheme="https://fsfms.github.io/readme/tags/Programmers/"/>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><span id="more"></span> <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h3 id="Generate-static-files-1"><a href="#Generate-static-files-1" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites-1"><a href="#Deploy-to-remote-sites-1" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="test" scheme="https://fsfms.github.io/readme/categories/test/"/>
-    
-    
-    <category term="hello" scheme="https://fsfms.github.io/readme/tags/hello/"/>
-    
-    <category term="world" scheme="https://fsfms.github.io/readme/tags/world/"/>
+    <category term="이것이 취업을 위한 코딩 테스트다" scheme="https://fsfms.github.io/readme/tags/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/"/>
     
   </entry>
   
