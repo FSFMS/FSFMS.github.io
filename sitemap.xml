@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fsfms.github.io/2022/05/31/hello-world/</loc>
+    <loc>https://fsfms.github.io/readme/2022/05/31/hello-world/</loc>
     
     <lastmod>2022-06-04</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://fsfms.github.io/about/index.html</loc>
+    <loc>https://fsfms.github.io/readme/about/index.html</loc>
     
     <lastmod>2022-06-04</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://fsfms.github.io/test-page/index.html</loc>
+    <loc>https://fsfms.github.io/readme/test-page/index.html</loc>
     
     <lastmod>2022-06-04</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://fsfms.github.io/</loc>
+    <loc>https://fsfms.github.io/readme</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,14 +38,14 @@
 
   
   <url>
-    <loc>https://fsfms.github.io/tags/hello/</loc>
+    <loc>https://fsfms.github.io/readme/tags/hello/</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://fsfms.github.io/tags/world/</loc>
+    <loc>https://fsfms.github.io/readme/tags/world/</loc>
     <lastmod>2022-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

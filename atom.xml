@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://fsfms.github.io/atom.xml" rel="self"/>
+  <link href="https://fsfms.github.io/readme/atom.xml" rel="self"/>
   
-  <link href="https://fsfms.github.io/"/>
+  <link href="https://fsfms.github.io/readme/"/>
   <updated>2022-06-04T06:26:04.537Z</updated>
-  <id>https://fsfms.github.io/</id>
+  <id>https://fsfms.github.io/readme/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://fsfms.github.io/2022/05/31/hello-world/"/>
-    <id>https://fsfms.github.io/2022/05/31/hello-world/</id>
+    <link href="https://fsfms.github.io/readme/2022/05/31/hello-world/"/>
+    <id>https://fsfms.github.io/readme/2022/05/31/hello-world/</id>
     <published>2022-05-30T15:00:00.000Z</published>
     <updated>2022-06-04T06:26:04.537Z</updated>
     
@@ -34,9 +34,9 @@
     
     
     
-    <category term="hello" scheme="https://fsfms.github.io/tags/hello/"/>
+    <category term="hello" scheme="https://fsfms.github.io/readme/tags/hello/"/>
     
-    <category term="world" scheme="https://fsfms.github.io/tags/world/"/>
+    <category term="world" scheme="https://fsfms.github.io/readme/tags/world/"/>
     
   </entry>
   
