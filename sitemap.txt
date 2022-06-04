@@ -1,5 +1,5 @@
-https://fsfms.github.io/readme/2022/05/31/hello-world/
-https://fsfms.github.io/readme/test-page/index.html
-https://fsfms.github.io/readme
-https://fsfms.github.io/readme/tags/hello/
-https://fsfms.github.io/readme/tags/world/
+https://fsfms.github.io/2022/05/31/hello-world/
+https://fsfms.github.io/test-page/index.html
+https://fsfms.github.io/
+https://fsfms.github.io/tags/hello/
+https://fsfms.github.io/tags/world/
