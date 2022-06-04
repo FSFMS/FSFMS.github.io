@@ -1,5 +1,5 @@
-http://example.com/2022/05/31/hello-world/
-http://example.com/test-page/index.html
-http://example.com/
-http://example.com/tags/hello/
-http://example.com/tags/world/
+https://fsfms.github.io/readme/2022/05/31/hello-world/
+https://fsfms.github.io/readme/test-page/index.html
+https://fsfms.github.io/readme
+https://fsfms.github.io/readme/tags/hello/
+https://fsfms.github.io/readme/tags/world/
