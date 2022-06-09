@@ -3,11 +3,11 @@
   <title>FSFMS</title>
   
   
-  <link href="https://fsfms.github.io/readme/atom.xml" rel="self"/>
+  <link href="https://fsfms.github.io/atom.xml" rel="self"/>
   
-  <link href="https://fsfms.github.io/readme/"/>
+  <link href="https://fsfms.github.io/"/>
   <updated>2022-06-07T08:06:40.419Z</updated>
-  <id>https://fsfms.github.io/readme/</id>
+  <id>https://fsfms.github.io/</id>
   
   <author>
     <name>FSFMS</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>7주차 내용 정리</title>
-    <link href="https://fsfms.github.io/readme/2022/06/07/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-05/"/>
-    <id>https://fsfms.github.io/readme/2022/06/07/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-05/</id>
+    <link href="https://fsfms.github.io/2022/06/07/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-05/"/>
+    <id>https://fsfms.github.io/2022/06/07/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-05/</id>
     <published>2022-06-07T04:09:00.000Z</published>
     <updated>2022-06-07T08:06:40.419Z</updated>
     
@@ -33,21 +33,21 @@
     
     
     
-    <category term="AlgorithmStudy2022" scheme="https://fsfms.github.io/readme/categories/AlgorithmStudy2022/"/>
+    <category term="AlgorithmStudy2022" scheme="https://fsfms.github.io/categories/AlgorithmStudy2022/"/>
     
     
-    <category term="Algorithm" scheme="https://fsfms.github.io/readme/tags/Algorithm/"/>
+    <category term="Algorithm" scheme="https://fsfms.github.io/tags/Algorithm/"/>
     
-    <category term="Programmers" scheme="https://fsfms.github.io/readme/tags/Programmers/"/>
+    <category term="Programmers" scheme="https://fsfms.github.io/tags/Programmers/"/>
     
-    <category term="이것이 취업을 위한 코딩 테스트다" scheme="https://fsfms.github.io/readme/tags/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/"/>
+    <category term="이것이 취업을 위한 코딩 테스트다" scheme="https://fsfms.github.io/tags/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/"/>
     
   </entry>
   
   <entry>
     <title>현재까지의 내용 정리</title>
-    <link href="https://fsfms.github.io/readme/2022/06/04/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-04/"/>
-    <id>https://fsfms.github.io/readme/2022/06/04/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-04/</id>
+    <link href="https://fsfms.github.io/2022/06/04/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-04/"/>
+    <id>https://fsfms.github.io/2022/06/04/AlgorithmStudy2022/AlgorithmStudy2022-2022-06-04/</id>
     <published>2022-06-04T04:58:52.000Z</published>
     <updated>2022-06-07T08:06:40.419Z</updated>
     
@@ -65,14 +65,14 @@
     
     
     
-    <category term="AlgorithmStudy2022" scheme="https://fsfms.github.io/readme/categories/AlgorithmStudy2022/"/>
+    <category term="AlgorithmStudy2022" scheme="https://fsfms.github.io/categories/AlgorithmStudy2022/"/>
     
     
-    <category term="Algorithm" scheme="https://fsfms.github.io/readme/tags/Algorithm/"/>
+    <category term="Algorithm" scheme="https://fsfms.github.io/tags/Algorithm/"/>
     
-    <category term="Programmers" scheme="https://fsfms.github.io/readme/tags/Programmers/"/>
+    <category term="Programmers" scheme="https://fsfms.github.io/tags/Programmers/"/>
     
-    <category term="이것이 취업을 위한 코딩 테스트다" scheme="https://fsfms.github.io/readme/tags/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/"/>
+    <category term="이것이 취업을 위한 코딩 테스트다" scheme="https://fsfms.github.io/tags/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/"/>
     
   </entry>
   
